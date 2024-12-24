@@ -16,5 +16,5 @@ Welcome to **Moonlight Restaurant**, your go-to spot for a delightful dining exp
 1. Clone the repository using the following command:
    ```bash
    git clone https://github.com/yourusername/Moonlight-Restaurant.git
-### Changes:
-- Added the live demo link under the **Demo** section: [Moonlight Restaurant Live Demo](https://niluxshana-ragavan05.neocities.org/MoonLight/)
+## Demo:
+You can view the live version of the website here: [Visit the Moonlight Restaurant Website](https://niluxshana-ragavan05.neocities.org/MoonLight/)
